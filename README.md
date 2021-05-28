@@ -1,8 +1,9 @@
-# gw-rml-group4
-For academic purposes.
+# About
+
+This project is created for academic purposes.
 
 
-## Group Members
+# Group Members
 
 Chip B.
 
