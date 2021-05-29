@@ -20,6 +20,7 @@ Abenezer T.
 
 ```
 cd gw-rml-group4
+git checkout main
 git pull
 git checkout -b new-branch-name
 ```
