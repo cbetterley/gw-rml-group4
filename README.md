@@ -28,7 +28,7 @@ git checkout -b new-branch-name
 
 ```
 git status
-git add .  # this adds everything.  add individual files instead, of needed
+git add .  # this adds everything.  add individual files instead, if needed
 git commit -m "tuned XGB parameters"
 git push origin new-branch-name
 ```
