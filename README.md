@@ -16,6 +16,8 @@ Abenezer T.
 
 # Using This Repo
 
+To make any changes to this repo:
+
 1. Before you start working, pull the latest code from the `main` branch and create your own branch.
 
 ```
@@ -25,7 +27,7 @@ git pull
 git checkout -b new-branch-name
 ```
 
-2. Commit your edits and create a pull request.
+2. Commit and push your edits.
 
 ```
 git status
@@ -34,8 +36,16 @@ git commit -m "tuned XGB parameters"
 git push origin new-branch-name
 ```
 
-...your terminal will give you a link to create the pull request on GitHub.  Make sure the target branch is `main`.
+3. Make a pull request. A pull request is how we apply your changes to the main branch.
 
-3. Ask Chip to review & merge.
+    - When you `git push`, your terminal will give you a link to create the pull request on GitHub.
+
+    - Make sure the target branch is `main`.
+
+    - Add Chip as a reviewer to the pull request.
+
+    - Hit Create Pull Request.
+
+4. Ask Chip to review & merge.
 
 Merge conflicts are likely since we're working on the same file simultaneously, and since that file is a combination of code and output.  Chip will sort it out!
