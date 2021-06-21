@@ -1,6 +1,7 @@
 # Data
 *.csv
 *.zip
+*.DS_Store
 
 # Default python .gitignore --------------------------------------------------
 
