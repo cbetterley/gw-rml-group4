@@ -1,20 +1,6 @@
-# About
-
-This project is created for academic purposes.
-
-
-# Group Members
-
-Chip B.
-
-Charlotte G.
-
-Chengkai J.
-
-Abenezer T.
-
-
 # Using This Repo
+
+*This section to be deleted before submitting model card!*
 
 To make any changes to this repo:
 
@@ -48,6 +34,73 @@ git push origin new-branch-name
 
 4. Ask Chip to review & merge.
 
-Merge conflicts are likely since we're working on the same file simultaneously, and since that file is a combination of code and output.  Chip will sort it out!
 
-This is a test
+---
+
+
+# Predicting High Mortgage Rates Using Explainable Boosted Machines
+
+## Intended Use
+
+- x
+
+- x
+
+- x
+
+
+## Data Sources
+
+
+### Training Data
+
+- x
+
+- x
+
+- x
+
+
+### Evaluation Data
+
+- x
+
+- x
+
+- x
+
+
+## Model Details
+
+- x
+
+- x
+
+- x
+
+
+## Quantitative Analysis
+
+- x
+
+- x
+
+- x
+
+
+## Model Details
+
+- x
+
+- x
+
+- x
+
+
+## Ethical Considerations
+
+- x
+
+- x
+
+- x
