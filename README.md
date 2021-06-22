@@ -37,8 +37,16 @@ git push origin new-branch-name
 
 ---
 
+<div align="center">
 
 # Predicting High Mortgage Rates Using Explainable Boosted Machines
+
+Chip B., Charlotte G., Chengkai J., Abenezer T.
+
+2021-06-21
+
+</div>
+
 
 ## Intended Use
 
