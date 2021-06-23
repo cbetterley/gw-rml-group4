@@ -50,11 +50,11 @@ Chip B., Charlotte G., Chengkai J., Abenezer T.
 
 ## Intended Use
 
-- x
+- to be updated by Chip...
 
-- x
+- to be updated by Chip...
 
-- x
+- to be updated by Chip...
 
 
 ## Data Sources
