@@ -27,11 +27,37 @@ This model was developed to predict whether a borrower has been charged a high i
 
 ## Training Data
 
-- x
+** Source of training data:** https://github.com/jphall663/GWU_rml/tree/master/assignments/data
 
-- x
+** Data split:** 70% of the training data are used for training and 30% of the training data are used for validation.
 
-- x
+** General view:** There are 112253 rows and 23 columns in training data and 48085 rows and 23 columns in validation data.
+
+** Column meanings:** 
+
+- high priced: Binary target, whether (1) or not (0) the annual percentage rate (APR) charged for a mortgage is 150 basis points (1.5%) or more above a survey-based estimate of similar mortgages. 
+
+- conforming: Binary numeric input, whether the mortgage conforms to normal standards (1), or whether the loan is different (0), e.g., jumbo, HELOC, reverse mortgage, etc.
+
+- debt to income ratio std: Numeric input, standardized debt-to-income ratio for mortgage applicants.
+
+- debt to income ratio missing: Binary numeric input, missing marker (1) for debt to income ratio std.
+
+- income std: Numeric input, standardized income for mortgage applicants.
+
+- loan amount std: Numeric input, standardized amount of the mortgage for applicants.
+
+- intro rate period std: Numeric input, standardized introductory rate period for mortgage applicants.
+
+- loan to value ratio std: Numeric input, ratio of the mortgage size to the value of the property for mortgage applicants.
+
+- no intro rate period std: Binary numeric input, whether or not a mortgage does not include an introductory rate period.
+
+- property value std: Numeric input, value of the mortgaged property.
+
+- term 360: Binary numeric input, whether the mortgage is a standard 360 month mortgage (1) or a different
+type of mortgage (0).
+
 
 
 ## Evaluation Data
