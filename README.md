@@ -27,13 +27,13 @@ This model was developed to predict whether a borrower has been charged a high i
 
 ## Training Data
 
-** Source of training data:** https://github.com/jphall663/GWU_rml/tree/master/assignments/data
+**Source of training data:** https://github.com/jphall663/GWU_rml/tree/master/assignments/data
 
-** Data split:** 70% of the training data are used for training and 30% of the training data are used for validation.
+**Data split:** 70% of the training data are used for training and 30% of the training data are used for validation.
 
-** General view:** There are 112253 rows and 23 columns in training data and 48085 rows and 23 columns in validation data.
+**General view:** There are 112253 rows and 23 columns in training data and 48085 rows and 23 columns in validation data.
 
-** Column meanings:** 
+**Column meanings:** 
 
 - high priced: Binary target, whether (1) or not (0) the annual percentage rate (APR) charged for a mortgage is 150 basis points (1.5%) or more above a survey-based estimate of similar mortgages. 
 
