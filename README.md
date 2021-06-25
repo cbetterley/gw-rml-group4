@@ -62,11 +62,11 @@ type of mortgage (0).
 
 ## Evaluation Data
 
-- x
+**Source of evaluation data:** https://github.com/jphall663/GWU_rml/tree/master/assignments/data
 
-- x
+**General view:** There are 19831 rows and 22 columns in evaluation data.
 
-- x
+**Difference:**
 
 
 ## Model Details
