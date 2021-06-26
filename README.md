@@ -80,11 +80,15 @@ type of mortgage (0).
 
 ## Quantitative Analysis
 
+**metrics used:** We used AUC to evaluate our model and the best AUC is 0.8048 after we run through the stress testing, residual analysis, and remove the outlier.
+
+- Assignment 1
 <img width="726" alt="Screen Shot 2021-06-26 at 10 48 18" src="https://user-images.githubusercontent.com/31415735/123516944-af40be80-d66c-11eb-8c9a-40e2217268c5.png">
 
-- x
+- Assignment 2
+<img width="327" alt="Screen Shot 2021-06-26 at 10 54 42" src="https://user-images.githubusercontent.com/31415735/123517148-6b9a8480-d66d-11eb-8937-1aa3eb5f0d68.png">
 
-- x
+- Assignment 3
 
 
 ## Ethical Considerations
