@@ -66,7 +66,7 @@ type of mortgage (0).
 
 **General view:** There are 19831 rows and 22 columns in evaluation data.
 
-**Difference:**
+**Difference:** Evaluation data contains column ‘high_priced’ which is the binary target variable in the training data.
 
 
 ## Model Details
