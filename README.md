@@ -84,6 +84,12 @@ type of mortgage (0).
 
 **State the values of the metrics for training, validation, and evaluation (or test) data:**
 
+- Training AUC: 0.7811
+
+- Validation AUC: 0.8233.
+
+**Plots from assignments:**
+
 - Assignment 1
 <img width="726" alt="Screen Shot 2021-06-26 at 10 48 18" src="https://user-images.githubusercontent.com/31415735/123516944-af40be80-d66c-11eb-8c9a-40e2217268c5.png">
 
@@ -104,6 +110,7 @@ type of mortgage (0).
 **Alternative models considered:**
 
 - Elastic Net
+
 - Monotonic XGBoost
 
 
