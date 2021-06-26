@@ -82,6 +82,8 @@ type of mortgage (0).
 
 **metrics used:** We used AUC to evaluate our model and the best AUC is 0.8048 after we run through the stress testing, residual analysis, and remove the outlier.
 
+**State the values of the metrics for training, validation, and evaluation (or test) data:**
+
 - Assignment 1
 <img width="726" alt="Screen Shot 2021-06-26 at 10 48 18" src="https://user-images.githubusercontent.com/31415735/123516944-af40be80-d66c-11eb-8c9a-40e2217268c5.png">
 
@@ -89,6 +91,20 @@ type of mortgage (0).
 <img width="327" alt="Screen Shot 2021-06-26 at 10 54 42" src="https://user-images.githubusercontent.com/31415735/123517148-6b9a8480-d66d-11eb-8937-1aa3eb5f0d68.png">
 
 - Assignment 3
+<img width="535" alt="Screen Shot 2021-06-26 at 10 54 31" src="https://user-images.githubusercontent.com/31415735/123517254-04c99b00-d66e-11eb-99dd-d92b31dbf655.png">
+
+- Assignment 4
+
+<img width="877" alt="Screen Shot 2021-06-26 at 10 55 23" src="https://user-images.githubusercontent.com/31415735/123517303-36426680-d66e-11eb-9c1b-401b85365be7.png">
+
+- Assignment 5
+
+<img width="913" alt="Screen Shot 2021-06-26 at 10 56 26" src="https://user-images.githubusercontent.com/31415735/123517293-2cb8fe80-d66e-11eb-9669-59eaeca206ea.png">
+
+**Alternative models considered:**
+
+- Elastic Net
+- Monotonic XGBoost
 
 
 ## Ethical Considerations
