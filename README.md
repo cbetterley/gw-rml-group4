@@ -71,11 +71,11 @@ type of mortgage (0).
 
 ## Model Details
 
-- x
+- This model was developed by master’s students at George Washington University to aid lenders in validating lending decisions, from the perspectives of both fairness and default risk.
 
-- x
+- The model date is in June 2021 
 
-- x
+- Explainable boosting machine.
 
 
 ## Quantitative Analysis
