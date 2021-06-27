@@ -114,10 +114,3 @@ type of mortgage (0).
 - Monotonic XGBoost
 
 
-## Ethical Considerations
-
-- x
-
-- x
-
-- x
