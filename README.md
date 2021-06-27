@@ -114,3 +114,18 @@ type of mortgage (0).
 - Monotonic XGBoost
 
 
+## Ethical considerations
+
+**Potential negative impacts:** there exists potential racial discrimination where Black applicants may receive a high-priced loan than White applicants.
+
+**Potential uncertainties:** Reproducibility 
+
+**Challenges during training:** 
+
+- Poor performance when model have outliers
+
+- Problems in different computer environment (software, package...)
+
+
+
+
